@@ -1,5 +1,5 @@
 ## SWTOR Textures Upscaler
-A fork of [**Hasib345's Texture_Upscaler**](https://github.com/Hasib345/Texture_Upscaler) ([Blender Market's Add-on's page](https://blendermarket.com/products/texture-upscaler---image-upscaler-for-blender)).
+A fork of [**Hasib345's Texture_Upscaler**](https://github.com/Hasib345/Texture_Upscaler) ([Hasib345's Blender Market's Add-on's page](https://blendermarket.com/products/texture-upscaler---image-upscaler-for-blender)).
 
 
 **This fork is a means to experiment with enhancing the textures of the Star Wars: The Old Republic (SWTOR) game (.dds format, which Blender can import but can't export, usually "packed" with multiple types of maps in a same image file).**
