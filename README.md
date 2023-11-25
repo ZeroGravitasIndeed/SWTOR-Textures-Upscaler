@@ -6,6 +6,8 @@ A fork of [**Hasib345's Texture_Upscaler**](https://github.com/Hasib345/Texture_
 
 The idea is to have it export the images to be enhanced as PNG, WebP or JPG instead, saving them alongside the original .dds ones, and have the add-on assign them back instead. Also, it's about seeing ways to integrate the upscaler executable in other SWTOR-related tools (it's the first time I toy with a Blender add-on that interacts with a command line UI-executable).
 
+As there are cases where the game's texture files will have very disparate data per channel that would suffer if enhanced as if they where full RGB images, I might have to investigate separating the channels into greyscale images, enhancing them, and combining them back 🤔.
+
 ChangeLog:  
 2023-11-25: fork creation.  
 
