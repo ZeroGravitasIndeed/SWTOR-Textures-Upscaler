@@ -1,5 +1,7 @@
 <p><b>This fork is a means to experiment with enhancing the textures of the Star Wars: The Old Republic (SWTOR) game (.dds format, which Blender can import but can't export, usually "packed" with multiple types of maps in a same image file).</b></p>
 <p>The idea is to have it export the images to be enhanced as PNG, WebP or JPG instead, save them alongside the original .dds ones, and have the add-on assign them back instead. Also, it's about seeing ways to integrate the upscaler executable in other SWTOR-related tools.</p>
+ChangeLog:<br>
+2023-11-25: fork creation.<br>
 <hr>
 <p>Texture Upscaler is an AI-based texture-upscaler for Blender. This plugin allows you to upscale your textures with a single click. Textures will be upscaled 4x with little detail loss and artifacts using realesrgan ncnn vulkan.</p>
 <p><span style="font-weight: bolder;">Features:</span></p>
