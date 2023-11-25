@@ -1,5 +1,7 @@
 <p><b>This fork is a means to experiment with enhancing the textures of the Star Wars: The Old Republic (SWTOR) game (.dds format, which Blender can import but can't export, usually "packed" with multiple types of maps in a same image file).</b></p>
 <p>The idea is to have it export the images to be enhanced as PNG, WebP or JPG instead, save them alongside the original .dds ones, and have the add-on assign them back instead. Also, it's about seeing ways to integrate the upscaler executable in other SWTOR-related tools.</p>
+<p>(That aside, it's also a means to understand how to make Blender interact with command line UI executables)</p>
+
 ChangeLog:<br>
 2023-11-25: fork creation.<br>
 <hr>
